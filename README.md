@@ -9,7 +9,7 @@ Features
 
 - Monitors a specified folder for file activity.
 - Detects file creation, modification, and deletion.
-- Logs events to a file (`ransomware_detection.log`).
+- Logs events to a file ('ransomware_detection.log').
 - Prints alerts to the console for real-time monitoring.
 
 Requirements
