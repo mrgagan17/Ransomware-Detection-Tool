@@ -1,0 +1,6 @@
+[ALERT] File modified: ./monitor_folder\test.txt at Mon Oct 14 19:58:59 2024
+[ALERT] File modified: ./monitor_folder\test.txt at Mon Oct 14 20:02:37 2024
+[ALERT] File modified: ./monitor_folder\test.txt at Mon Oct 14 20:08:35 2024
+[INFO] New file created: ./monitor_folder\hello.txt at Mon Oct 14 20:09:05 2024
+[ALERT] File modified: ./monitor_folder\hello.txt at Mon Oct 14 20:09:41 2024
+[ALERT] File deleted: ./monitor_folder\hello.txt at Mon Oct 14 20:10:09 2024
